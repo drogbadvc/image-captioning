@@ -19,9 +19,9 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés :
 
 ## Structure du Projet
 
-views: Dossier pour les scripts Streamlit de l'interface utilisateur.
-api: Contient le modèle de traitement d'image avec des scripts pour l'inférence + intéraction avec l'API.
-main.py: Le point d'entrée principal de l'application Streamlit.
+- views: Dossier pour les scripts Streamlit de l'interface utilisateur.
+- api: Contient le modèle de traitement d'image avec des scripts pour l'inférence + intéraction avec l'API.
+- main.py: Le point d'entrée principal de l'application Streamlit.
 
 ## Installation
 
