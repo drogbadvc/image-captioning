@@ -1,0 +1,12 @@
+timm
+transformers
+fairscale
+pycocoevalcap
+torch
+torchvision
+Pillow
+scipy
+git+https://github.com/openai/CLIP.git
+streamlit
+fastapi
+python-multipart
